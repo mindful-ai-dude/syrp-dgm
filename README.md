@@ -5,7 +5,7 @@ https://syrpdgm-simulator.netlify.app/
 ![SYRP-DGM Simulation Preview](public/1-SYRP-DGM-ai%20reputatopn-system-manager.png)
 
 **Abstract - By Gregory Kennedy**
-“SYRP-DGM" A Self-Improving Gödelian Reputation Protocol for AI Agents” (SYRP-DGM), is a novel framework integrating the self-improving capabilities of the Darwin Gödel Machine (DGM) with the SYRP ML (Stake Your Reputation Protocol and Machine Learning Algorithm) Created by Gregory Kennedy (SYRP was co-created by Gregory Kennedy and Dr. Justin Smith in 2018). [2018 SYRP Origins](https://medium.com/@socialbenefitcoin/stake-your-reputation-protocol-syrp-for-a-p2p-economy-57c9572e2ada)
+“SYRP-DGM" A Self-Improving Gödelian Reputation Protocol for AI Agents” (SYRP-DGM), is a novel framework integrating the self-improving capabilities of the Darwin Gödel Machine (DGM) with the SYRP ML (Stake Your Reputation Protocol and Machine Learning Algorithm) Created by Gregory Kennedy (SYRP was co-created by Gregory Kennedy and Dr. Justin Smith in 2018).    [2018 SYRP Origins](https://medium.com/@socialbenefitcoin/stake-your-reputation-protocol-syrp-for-a-p2p-economy-57c9572e2ada)
 
 ## The Full "SYRP-DGM" research paper will be released fall 2025 - Gregory Kennedy
 
