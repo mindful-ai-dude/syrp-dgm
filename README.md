@@ -7,6 +7,8 @@ https://syrpdgm-simulator.netlify.app/
 **Abstract - By Gregory Kennedy**
 “SYRP-DGM" A Self-Improving Gödelian Reputation Protocol for AI Agents” (SYRP-DGM), is a novel framework integrating the self-improving capabilities of the Darwin Gödel Machine (DGM) with the SYRP ML (Stake Your Reputation Protocol and Machine Learning Algorithm) Created by Gregory Kennedy (SYRP was co-created by Gregory Kennedy and Dr. Justin Smith in 2018). [2018 SYRP Origins](https://medium.com/@socialbenefitcoin/stake-your-reputation-protocol-syrp-for-a-p2p-economy-57c9572e2ada)
 
+## The Full "SYRP-DGM" research paper will be released fall 2025 - Gregory Kennedy
+
 The DGM is a theoretical construct for an AI that can provably improve its own code; here, we adapt its principles for empirical self-improvement. SYRP is understood as a system for dynamic reputation assessment. 
 
 The core thesis is that by leveraging DGM's principles of open-ended evolution and empirical validation of self-modifications, SYRP-DGM can create a new generation of dynamic and trustworthy reputation assessment systems for networked environments. Such a system holds the potential to autonomously evolve more robust, adaptive, and secure reputation mechanisms, capable of responding to the increasing complexity and adversarial nature of modern networks, including threats like Sybil attacks. 
@@ -26,8 +28,6 @@ Concurrently, the field of artificial intelligence has seen the emergence of con
 The fundamental challenge in reputation systems is the maintenance of trustworthiness within dynamic and adversarial environments. The DGM paradigm offers a meta-level solution: rather than attempting to design a perfect, static reputation system, the goal shifts to designing a system that *learns to become* a better, more trustworthy system over time. This is possible because reputation systems aim to establish trust 1, yet they operate in environments that are inherently dynamic and often hostile.5 Static or manually updated systems inevitably fall behind in this evolutionary arms race.5 The DGM, designed for self-improvement and open-ended evolution in complex task domains 6, can be conceptualized as a mechanism to allow a reputation system like SYRP to continuously adapt its very definition of "trustworthy" and its methods for assessing it, moving beyond mere dynamic updates to a dynamic evolution of the update mechanism itself.
 
 The paper introduces the SYRP Darwin Gödel Machine (SYRP-DGM) framework, a novel synthesis that aims to imbue reputation assessment systems with the DGM's capacity for self-improvement and open-ended evolution. The central thesis is that by applying DGM principles, SYRP agents can autonomously evolve their internal ML models, protocol rules, and defensive mechanisms in direct response to changing network conditions, user behaviors, and adversarial strategies. This approach seeks to create a new generation of reputation systems that are not only dynamic and trustworthy but also self-evolving and resilient.
-
-"The Full "SYRP-DGM" research paper will be released fall 2025 - Gregory Kennedy
 
 ## Methodology
 
