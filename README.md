@@ -1,5 +1,9 @@
 # **SYRP-DGM: A Self-Improving Gödelian Reputation Protocol for AI Agents**
 
+https://syrpdgm-simulator.netlify.app/
+
+![SYRP-DGM Game Preview](public/1-SYRP-DGM-ai%20reputatopn-system-manager.png)
+
 **Abstract - By Gregory Kennedy**
 “SYRP-DGM" A Self-Improving Gödelian Reputation Protocol for AI Agents” (SYRP-DGM), a novel framework integrating the self-improving capabilities of the Darwin Gödel Machine (DGM) with the SYRP ML (Stake Your Reputation Protocol and Machine Learning Algorithm) . The DGM is a theoretical construct for an AI that can provably improve its own code; here, we adapt its principles for empirical self-improvement. SYRP is understood as a system for dynamic reputation assessment. The core thesis is that by leveraging DGM's principles of open-ended evolution and empirical validation of self-modifications, SYRP-DGM can create a new generation of dynamic and trustworthy reputation assessment systems for networked environments. Such a system holds the potential to autonomously evolve more robust, adaptive, and secure reputation mechanisms, capable of responding to the increasing complexity and adversarial nature of modern networks, including threats like Sybil attacks. Key contributions include the conceptualization of the SYRP-DGM architecture, an exploration of how it can lead to the evolution of sophisticated defenses against known and novel attacks, a simulation demonstrating basic evolutionary principles, a practical use case in supply chain management, and a critical examination of the associated AI safety, alignment, and ethical considerations. This work aims to lay the groundwork for reputation systems that not only assess trust but also learn to improve their own assessment capabilities over time.
 
@@ -54,9 +58,6 @@ end for
 
 
 # SYRP-DGM Simulator Setup Guide
-https://syrpdgm-simulator.netlify.app/
-
-![SYRP-DGM Game Preview](public/1-SYRP-DGM-ai%20reputatopn-system-manager.png)
 ![SYRP-DGM Game Screenshot 2](public/2-SYRP-DGM-ai%20reputatopn-system-manager.png)
 ![SYRP-DGM Game Screenshot 3](public/3-SYRP-DGM-ai%20reputatopn-system-manager.png)
 
