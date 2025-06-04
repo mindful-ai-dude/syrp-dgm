@@ -5,9 +5,9 @@ https://syrpdgm-simulator.netlify.app/
 ![SYRP-DGM Simulation Preview](public/1-SYRP-DGM-ai%20reputatopn-system-manager.png)
 
 **Abstract - By Gregory Kennedy**
-“SYRP-DGM" A Self-Improving Gödelian Reputation Protocol for AI Agents” (SYRP-DGM), is a novel framework integrating the self-improving capabilities of the Darwin Gödel Machine (DGM) with the SYRP ML (Stake Your Reputation Protocol and Machine Learning Algorithm) Created by Gregory Kennedy (SYRP was co-created by Gregory Kennedy and Dr. Justin Smith). The DGM is a theoretical construct for an AI that can provably improve its own code; here, we adapt its principles for empirical self-improvement. SYRP is understood as a system for dynamic reputation assessment. 
+“SYRP-DGM" A Self-Improving Gödelian Reputation Protocol for AI Agents” (SYRP-DGM), is a novel framework integrating the self-improving capabilities of the Darwin Gödel Machine (DGM) with the SYRP ML (Stake Your Reputation Protocol and Machine Learning Algorithm) Created by Gregory Kennedy (SYRP was co-created by Gregory Kennedy and Dr. Justin Smith in 2018). [2018 SYRP Origins](https://medium.com/@socialbenefitcoin/stake-your-reputation-protocol-syrp-for-a-p2p-economy-57c9572e2ada)
 
-[2018 SYRP Origins](https://medium.com/@socialbenefitcoin/stake-your-reputation-protocol-syrp-for-a-p2p-economy-57c9572e2ada)
+The DGM is a theoretical construct for an AI that can provably improve its own code; here, we adapt its principles for empirical self-improvement. SYRP is understood as a system for dynamic reputation assessment. 
 
 The core thesis is that by leveraging DGM's principles of open-ended evolution and empirical validation of self-modifications, SYRP-DGM can create a new generation of dynamic and trustworthy reputation assessment systems for networked environments. Such a system holds the potential to autonomously evolve more robust, adaptive, and secure reputation mechanisms, capable of responding to the increasing complexity and adversarial nature of modern networks, including threats like Sybil attacks. 
 
