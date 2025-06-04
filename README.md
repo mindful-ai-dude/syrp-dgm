@@ -27,7 +27,7 @@ The fundamental challenge in reputation systems is the maintenance of trustworth
 
 The paper introduces the SYRP Darwin Gödel Machine (SYRP-DGM) framework, a novel synthesis that aims to imbue reputation assessment systems with the DGM's capacity for self-improvement and open-ended evolution. The central thesis is that by applying DGM principles, SYRP agents can autonomously evolve their internal ML models, protocol rules, and defensive mechanisms in direct response to changing network conditions, user behaviors, and adversarial strategies. This approach seeks to create a new generation of reputation systems that are not only dynamic and trustworthy but also self-evolving and resilient.
 
-"The Full "SYRP-DGM" research paper will be released fall 2025
+"The Full "SYRP-DGM" research paper will be released fall 2025 - Gregory Kennedy
 
 ## Methodology
 
