@@ -2,6 +2,8 @@
 https://syrpdgm-simulator.netlify.app/
 
 ![SYRP-DGM Game Preview](public/1-SYRP-DGM-ai%20reputatopn-system-manager.png)
+![SYRP-DGM Game Screenshot 2](public/2-SYRP-DGM-ai%20reputatopn-system-manager.png)
+![SYRP-DGM Game Screenshot 3](public/3-SYRP-DGM-ai%20reputatopn-system-manager.png)
 
 ## Complete Step-by-Step Installation and Setup
 
