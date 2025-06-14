@@ -34,8 +34,8 @@ The paper introduces the SYRP Darwin Gödel Machine (SYRP-DGM) framework, a nove
 \### System Architecture
 
 ```text
-┌───────────────────┐  proposes patch   ┌────────────────────┐
-│  SYRP Agent Pi    │ ────────────────▶ │   Child Agent Pᵢ′   │
+┌───────────────────┐  proposes patch  ┌────────────────────┐
+│  SYRP Agent Pi    │ ────────────────▶│   Child Agent Pᵢ′  │
 │ (code + weights)  │                  └─────────┬──────────┘
 └────────┬──────────┘            empirical test  ▼
          │ archive insert                   ┌───────────────────┐
