@@ -9,7 +9,7 @@ https://syrpdgm-simulator.netlify.app/
 
 ## The Full "SYRP-DGM" research paper will be released fall 2025 - Gregory Kennedy
 
-The DGM is a theoretical construct for an AI that can provably improve its own code; here, we adapt its principles for empirical self-improvement. SYRP is understood as a system for dynamic reputation assessment. 
+The DGM is a theoretical construct for an AI that can provably improve its own code; here, we adapt its principles for empirical self-improvement. SYRP is a system for dynamic reputation assessment. 
 
 The core thesis is that by leveraging DGM's principles of open-ended evolution and empirical validation of self-modifications, SYRP-DGM can create a new generation of dynamic and trustworthy reputation assessment systems for networked environments. Such a system holds the potential to autonomously evolve more robust, adaptive, and secure reputation mechanisms, capable of responding to the increasing complexity and adversarial nature of modern networks, including threats like Sybil attacks. 
 
